@@ -1,0 +1,9 @@
+﻿ID,Pronostico,Humedad,Viento,Juega
+1,soleado,alta,no,no
+2,nublado,alta,no,sí
+3,lluvioso,normal,no,sí
+4,lluvioso,normal,sí,no
+5,soleado,alta,no,no
+6,soleado,normal,no,sí
+7,nublado,alta,sí,sí
+8,lluvioso,alta,sí,no
